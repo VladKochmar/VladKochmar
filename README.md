@@ -1,9 +1,16 @@
-### Hi, I'm Vlad 👋
+<h1 align="center">Hi, I'm Vlad 👋</h1>
 
+### About
+<p>
+  Beginner Front-End Developer with a solid foundation in HTML, CSS/SCSS, and JavaScript.
+I have recently completed the VUE JS course and started to make my project.
+</p>
+<p>My goals in education are to raise my VUE JS skills and then start learning TypeScript.</p>
+<br/>
 :mailbox: Reach me out!
 
 <a href="mailto:vladkochmar17@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/Vlad_Kochmar"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%23fff"></a>
+<a href="[https://t.me/Vlad_Kochmar](https://www.linkedin.com/in/vladyslav-kochmar-7931a0302/)"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://wa.me/380730406906"><img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=%23fff"></a>
 
 ### Top Technologies
